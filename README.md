@@ -19,7 +19,7 @@ I'm focused on developing practical skills in cybersecurity, networking, Linux, 
 
 ## 🚀 Featured Work
 
-- **[Cybersecurity Journey](https://github.com/niteshpachar01/cybersecurity)** — hands-on learning notes, authorized lab write-ups, networking notes, and Python/Bash security tools.
+- **[Cybersecurity](https://github.com/niteshpachar01/cybersecurity)** — hands-on learning notes, authorized lab write-ups, networking notes, and Python/Bash security tools.
 
 ## ✍️ Technical Writing
 
