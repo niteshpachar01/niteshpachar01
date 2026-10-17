@@ -2,7 +2,7 @@
 
 **Cybersecurity & Digital Forensics Student | Building, Analyzing, Securing**
 
-I'm a student focused on developing practical skills in cybersecurity, networking, Linux, and Python. I document what I learn through hands-on labs, small tools, and technical writing.
+I'm focused on developing practical skills in cybersecurity, networking, Linux, and Python. I document what I learn through hands-on labs, small tools, and technical writing.
 
 ## 🔐 Areas I'm Learning
 
@@ -19,8 +19,7 @@ I'm a student focused on developing practical skills in cybersecurity, networkin
 
 ## 🚀 Featured Work
 
-- **[Cybersecurity Journey](https://github.com/niteshpachar01/cybersecurity)** — learning notes, authorized lab write-ups, and small security tools.
-- **[Data Structure Assignments](https://github.com/niteshpachar01/Data-structure-assignment-)** — C programming and data-structure coursework.
+- **[Cybersecurity Journey](https://github.com/niteshpachar01/cybersecurity)** — hands-on learning notes, authorized lab write-ups, networking notes, and Python/Bash security tools.
 
 ## ✍️ Technical Writing
 
