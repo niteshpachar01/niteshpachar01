@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nitesh 👋
 
-<!--
-**niteshpachar01/niteshpachar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity & Digital Forensics Student | Building, Analyzing, Securing**
 
-Here are some ideas to get you started:
+I'm a student focused on developing practical skills in cybersecurity, networking, Linux, and Python. I document what I learn through hands-on labs, small tools, and technical writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Areas I'm Learning
+
+- Network security and traffic analysis
+- Linux fundamentals and Bash scripting
+- Python security utilities
+- Nmap scanning in authorized lab environments
+- Wireshark packet analysis
+- Defensive security and responsible testing
+
+## 🧰 Tools & Technologies
+
+`Python` · `Bash` · `Linux` · `Nmap` · `Wireshark` · `Git` · `GitHub`
+
+## 🚀 Featured Work
+
+- **[Cybersecurity Journey](https://github.com/niteshpachar01/cybersecurity)** — learning notes, authorized lab write-ups, and small security tools.
+- **[Data Structure Assignments](https://github.com/niteshpachar01/Data-structure-assignment-)** — C programming and data-structure coursework.
+
+## ✍️ Technical Writing
+
+- [Scanning a Network with Nmap and Reading It in Wireshark](https://medium.com/@niteshpachar7/scanning-a-network-with-nmap-and-reading-it-in-wireshark-77e307774520)
+
+## 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nitesh-pachar-18421737b/)
+- [Medium](https://medium.com/@niteshpachar7)
+
+---
+
+> I believe in learning by doing: build, analyze, document, and improve.
+
+**Responsible use:** I practice security testing only on systems I own or have explicit permission to test.
